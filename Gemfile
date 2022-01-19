@@ -5,3 +5,6 @@ gem 'jekyll'
 gem 'jekyll-feed'
 gem 'jekyll-archives'
 gem 'jekyll-paginate'
+gem 'jekyll-analytics'
+
+gem "webrick", "~> 1.7"
